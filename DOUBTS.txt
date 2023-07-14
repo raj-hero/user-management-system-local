@@ -1,0 +1,31 @@
+.env files??=>.env for avoiding giving credentials to other usrs
+try to do without .env
+Remove Comments
+viees=>include=>_header.ejs=> "_"??
+
+css=>
+css=>style.css=>Change font style
+var(--border-btn) var???
+-webkit-background-clip?? -webkit??
+CHANGE FONT FAMILY AND COLOR
+
+when pressing new user, why does new open pg open up?
+where is the link of new user in button in add-user or server.js AAAA??
+when pressing <<all users unde new user, why does prev all users pg open up?
+where is the link of all users in  new-user AAAA??
+
+ejs==>
+.html files are created to create design, and copied onyo ejs, then deleted
+
+render.js=>
+/** 
+ * @description Root Route
+ * @method GET /
+ */  ?????
+
+ controller.js=>
+check few changes find ,create
+put not working
+
+-----------------------
+jquery and ejs not added in resume as jquery-> part of js & ejs->templating
